@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1118" viewBox="0 0 1400 1118" role="img" aria-label="The 20-beat action sequence, timed against a 129.3 BPM track">
+  <style>
+    .bg{fill:#060a1a}
+    .h1{fill:#ffffff;font:700 30px 'Segoe UI',system-ui,sans-serif}
+    .sub{fill:#a9b8d6;font:400 17px 'Segoe UI',system-ui,sans-serif}
+    .num{fill:#cbd6ea;font:700 15px 'Segoe UI',system-ui,sans-serif}
+    .time{fill:#8e9dbb;font:400 13px 'Consolas',monospace}
+    .label{fill:#e6ecfa;font:400 15px 'Segoe UI',system-ui,sans-serif}
+    .bar{fill:#7c5cf6}
+    .bar.alt{fill:#ec4899}
+    .lane{fill:#101a33}
+    .tick{stroke:#2a3450;stroke-width:1;stroke-dasharray:3 5}
+    .ticklabel{fill:#65748f;font:400 12px 'Consolas',monospace}
+    .foot{fill:#65748f;font:400 13px 'Segoe UI',system-ui,sans-serif}
+  </style>
+  <rect width="1400" height="1118" class="bg"/>
+  <text x="96" y="52" class="h1">Burning Bridges AI — the 20 beats</text>
+  <text x="96" y="84" class="sub">One continuous shot, 20.09s, timed to a 129.3 BPM track (one beat every 0.464s). Bar length = the window each move is given.</text>
+  <text x="96" y="110" class="sub">Every line below is verbatim from the prompt that the site sends to the model.</text>
+  <line x1="300.0" y1="172" x2="300.0" y2="1030" class="tick"/>
+  <text x="300.0" y="166" class="ticklabel" text-anchor="middle">0s</text><line x1="374.7" y1="172" x2="374.7" y2="1030" class="tick"/>
+  <text x="374.7" y="166" class="ticklabel" text-anchor="middle">5s</text><line x1="449.3" y1="172" x2="449.3" y2="1030" class="tick"/>
+  <text x="449.3" y="166" class="ticklabel" text-anchor="middle">10s</text><line x1="524.0" y1="172" x2="524.0" y2="1030" class="tick"/>
+  <text x="524.0" y="166" class="ticklabel" text-anchor="middle">15s</text><line x1="598.7" y1="172" x2="598.7" y2="1030" class="tick"/>
+  <text x="598.7" y="166" class="ticklabel" text-anchor="middle">20s</text>
+  
+  <text x="72" y="191" class="num" text-anchor="end">1</text>
+  <text x="176" y="191" class="time" text-anchor="end">0.00–0.97s</text>
+  <rect x="300" y="177" width="300" height="20" rx="6" class="lane"/>
+  <rect x="300.0" y="177" width="12.5" height="20" rx="5" class="bar"/>
+  <text x="632" y="192" class="label">Leaning side to side with the beat, one arm extended out to the side, cup in the other hand. The cr…</text>
+  <text x="72" y="235" class="num" text-anchor="end">2</text>
+  <text x="176" y="235" class="time" text-anchor="end">0.97–1.90s</text>
+  <rect x="300" y="221" width="300" height="20" rx="6" class="lane"/>
+  <rect x="314.5" y="221" width="11.9" height="20" rx="5" class="bar alt"/>
+  <text x="632" y="236" class="label">Turning the upper body toward the camera, bringing the cup in to chest height, nodding on the beat,…</text>
+  <text x="72" y="279" class="num" text-anchor="end">3</text>
+  <text x="176" y="279" class="time" text-anchor="end">1.90–2.37s</text>
+  <rect x="300" y="265" width="300" height="20" rx="6" class="lane"/>
+  <rect x="328.4" y="265" width="7.0" height="20" rx="5" class="bar"/>
+  <text x="632" y="280" class="label">Leaning toward the lens and waving the free hand close to the camera.</text>
+  <text x="72" y="323" class="num" text-anchor="end">4</text>
+  <text x="176" y="323" class="time" text-anchor="end">2.37–3.29s</text>
+  <rect x="300" y="309" width="300" height="20" rx="6" class="lane"/>
+  <rect x="335.4" y="309" width="11.7" height="20" rx="5" class="bar alt"/>
+  <text x="632" y="324" class="label">Straightening up, mouth open singing along, cup held in front of the chest.</text>
+  <text x="72" y="367" class="num" text-anchor="end">5</text>
+  <text x="176" y="367" class="time" text-anchor="end">3.29–3.76s</text>
+  <rect x="300" y="353" width="300" height="20" rx="6" class="lane"/>
+  <rect x="349.1" y="353" width="7.0" height="20" rx="5" class="bar"/>
+  <text x="632" y="368" class="label">Lifting the cup to shoulder height and pointing with the free hand.</text>
+  <text x="72" y="411" class="num" text-anchor="end">6</text>
+  <text x="176" y="411" class="time" text-anchor="end">3.76–4.69s</text>
+  <rect x="300" y="397" width="300" height="20" rx="6" class="lane"/>
+  <rect x="356.1" y="397" width="11.9" height="20" rx="5" class="bar alt"/>
+  <text x="632" y="412" class="label">Raising the cup higher and sweeping the free arm across the chest, hips swaying.</text>
+  <text x="72" y="455" class="num" text-anchor="end">7</text>
+  <text x="176" y="455" class="time" text-anchor="end">4.69–6.54s</text>
+  <rect x="300" y="441" width="300" height="20" rx="6" class="lane"/>
+  <rect x="370.0" y="441" width="25.6" height="20" rx="5" class="bar"/>
+  <text x="632" y="456" class="label">Continuing to dance in place, cup held up, turning the head to look around at the crowd and laughin…</text>
+  <text x="72" y="499" class="num" text-anchor="end">8</text>
+  <text x="176" y="499" class="time" text-anchor="end">6.54–7.47s</text>
+  <rect x="300" y="485" width="300" height="20" rx="6" class="lane"/>
+  <rect x="397.7" y="485" width="11.9" height="20" rx="5" class="bar alt"/>
+  <text x="632" y="500" class="label">A big arm move: the free arm throws out to the side and swings down and across the body, cup raised…</text>
+  <text x="72" y="543" class="num" text-anchor="end">9</text>
+  <text x="176" y="543" class="time" text-anchor="end">7.47–8.86s</text>
+  <rect x="300" y="529" width="300" height="20" rx="6" class="lane"/>
+  <rect x="411.5" y="529" width="18.8" height="20" rx="5" class="bar"/>
+  <text x="632" y="544" class="label">Repeating that swing with more force, body turning left and right, crowd dancing along.</text>
+  <text x="72" y="587" class="num" text-anchor="end">10</text>
+  <text x="176" y="587" class="time" text-anchor="end">8.86–10.25s</text>
+  <rect x="300" y="573" width="300" height="20" rx="6" class="lane"/>
+  <rect x="432.3" y="573" width="18.8" height="20" rx="5" class="bar alt"/>
+  <text x="632" y="588" class="label">Bending the arm and bringing the free hand up near the face, eyes closing, swaying.</text>
+  <text x="72" y="631" class="num" text-anchor="end">11</text>
+  <text x="176" y="631" class="time" text-anchor="end">10.25–11.18s</text>
+  <rect x="300" y="617" width="300" height="20" rx="6" class="lane"/>
+  <rect x="453.1" y="617" width="11.9" height="20" rx="5" class="bar"/>
+  <text x="632" y="632" class="label">Raising the cup high above shoulder height with both hands, head tilted slightly back.</text>
+  <text x="72" y="675" class="num" text-anchor="end">12</text>
+  <text x="176" y="675" class="time" text-anchor="end">11.18–12.11s</text>
+  <rect x="300" y="661" width="300" height="20" rx="6" class="lane"/>
+  <rect x="466.9" y="661" width="11.9" height="20" rx="5" class="bar alt"/>
+  <text x="632" y="676" class="label">Turning to the woman on the right with the space buns and extending the cup toward her; the two cup…</text>
+  <text x="72" y="719" class="num" text-anchor="end">13</text>
+  <text x="176" y="719" class="time" text-anchor="end">12.11–13.04s</text>
+  <rect x="300" y="705" width="300" height="20" rx="6" class="lane"/>
+  <rect x="480.8" y="705" width="11.9" height="20" rx="5" class="bar"/>
+  <text x="632" y="720" class="label">Clinking a second time, both laughing.</text>
+  <text x="72" y="763" class="num" text-anchor="end">14</text>
+  <text x="176" y="763" class="time" text-anchor="end">13.04–14.43s</text>
+  <rect x="300" y="749" width="300" height="20" rx="6" class="lane"/>
+  <rect x="494.7" y="749" width="18.8" height="20" rx="5" class="bar alt"/>
+  <text x="632" y="764" class="label">Holding the cup up toward her, both arms open, celebrating.</text>
+  <text x="72" y="807" class="num" text-anchor="end">15</text>
+  <text x="176" y="807" class="time" text-anchor="end">14.43–14.89s</text>
+  <rect x="300" y="793" width="300" height="20" rx="6" class="lane"/>
+  <rect x="515.5" y="793" width="7.0" height="20" rx="5" class="bar"/>
+  <text x="632" y="808" class="label">Turning back to the camera, lowering the cup, laughing.</text>
+  <text x="72" y="851" class="num" text-anchor="end">16</text>
+  <text x="176" y="851" class="time" text-anchor="end">14.89–15.82s</text>
+  <rect x="300" y="837" width="300" height="20" rx="6" class="lane"/>
+  <rect x="522.3" y="837" width="11.9" height="20" rx="5" class="bar alt"/>
+  <text x="632" y="852" class="label">Pointing the index finger straight at the camera, cup in the other hand.</text>
+  <text x="72" y="895" class="num" text-anchor="end">17</text>
+  <text x="176" y="895" class="time" text-anchor="end">15.82–16.75s</text>
+  <rect x="300" y="881" width="300" height="20" rx="6" class="lane"/>
+  <rect x="536.2" y="881" width="11.9" height="20" rx="5" class="bar"/>
+  <text x="632" y="896" class="label">Raising the cup to the face and drinking, the cup covering the lower half of the face.</text>
+  <text x="72" y="939" class="num" text-anchor="end">18</text>
+  <text x="176" y="939" class="time" text-anchor="end">16.75–17.68s</text>
+  <rect x="300" y="925" width="300" height="20" rx="6" class="lane"/>
+  <rect x="550.1" y="925" width="11.9" height="20" rx="5" class="bar alt"/>
+  <text x="632" y="940" class="label">Lowering the cup, head tilted, smiling at the camera.</text>
+  <text x="72" y="983" class="num" text-anchor="end">19</text>
+  <text x="176" y="983" class="time" text-anchor="end">17.68–18.61s</text>
+  <rect x="300" y="969" width="300" height="20" rx="6" class="lane"/>
+  <rect x="564.0" y="969" width="11.9" height="20" rx="5" class="bar"/>
+  <text x="632" y="984" class="label">Waving the free hand at the camera, then raising both hands, big smile.</text>
+  <text x="72" y="1027" class="num" text-anchor="end">20</text>
+  <text x="176" y="1027" class="time" text-anchor="end">18.61–20.09s</text>
+  <rect x="300" y="1013" width="300" height="20" rx="6" class="lane"/>
+  <rect x="577.9" y="1013" width="20.1" height="20" rx="5" class="bar alt"/>
+  <text x="632" y="1028" class="label">Full cheer: both arms open and up, mouth open celebrating, and the whole crowd behind raises their…</text>
+  <text x="96" y="1094" class="foot">prompts/party-scene.md — the action sequence is fixed: do not invent moves, do not reorder them, do not free-style.</text>
+</svg>
